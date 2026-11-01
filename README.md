@@ -11,3 +11,6 @@
 
 <img width="254" height="376" alt="ss6" src="https://github.com/user-attachments/assets/e964ec17-0f30-4a9a-82e6-59c224f23d54" />
 
+<img width="943" height="305" alt="ss7" src="https://github.com/user-attachments/assets/08453061-821f-4d32-a2f8-f683daf10c79" />
+
+<img width="959" height="360" alt="ss8" src="https://github.com/user-attachments/assets/4c3e18cb-7161-4f93-bf6d-90f7a784834c" />
